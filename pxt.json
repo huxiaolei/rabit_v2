@@ -6,7 +6,8 @@
         "radio": "*",
         "microphone": "*",
         "MakerBit-Ultrasonic": "github:1010technologies/pxt-makerbit-ultrasonic#v1.0.8",
-        "dfplayermini": "github:51bit/dfplayermini#v0.1.6"
+        "dfplayermini": "github:51bit/dfplayermini#v0.1.6",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5"
     },
     "files": [
         "main.blocks",
